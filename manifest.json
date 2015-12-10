@@ -4,35 +4,34 @@
 	"title": "Chart notes for highcharts",
 	"author": {
 		"name": "tuanlt",
-		"url": ""
+		"url": "https://github.com/tuanlt2804/chartnotes/"
 	},
 	"licenses": [
 		{
-			"type": "",
-			"url": ""
+			"type": "Creative Commons Attribution (CC)",
+			"url": "https://github.com/tuanlt2804/chartnotes/license.txt"
 		}
 	],
 	"dependencies": {
-		"highcharts": ""
+		"highcharts": "3.0.7+"
 	},
 	"type": "",
-	"description": "",
+	"description": "Plugin that add notes to Highcharts library",
 	"keywords": [
-		"",
-		""
+		"chartnotes"
 	],
 	"homepage": "",	
-	"docs": "",	
-	"bugs": "",
-	"download": "",
+	"docs": "https://github.com/tuanlt2804/chartnotes/",	
+	"bugs": "https://github.com/tuanlt2804/chartnotes/",
+	"download": "https://github.com/tuanlt2804/chartnotes/",
 	"demo": [
 		"",
 		""
 	],
 	"maintainers": [
 		{
-			"name": "",
-			"email": "",
+			"name": "tuanlt",
+			"email": "tuanlt.viss@gmail.com",
 			"url": ""
 		}
 	]	
