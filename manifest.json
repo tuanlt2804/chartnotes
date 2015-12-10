@@ -1,0 +1,39 @@
+{
+	"name": "ChartNotes",
+	"version": "1.0",
+	"title": "Chart notes for highcharts",
+	"author": {
+		"name": "tuanlt",
+		"url": ""
+	},
+	"licenses": [
+		{
+			"type": "",
+			"url": ""
+		}
+	],
+	"dependencies": {
+		"highcharts": ""
+	},
+	"type": "",
+	"description": "",
+	"keywords": [
+		"",
+		""
+	],
+	"homepage": "",	
+	"docs": "",	
+	"bugs": "",
+	"download": "",
+	"demo": [
+		"",
+		""
+	],
+	"maintainers": [
+		{
+			"name": "",
+			"email": "",
+			"url": ""
+		}
+	]	
+}
